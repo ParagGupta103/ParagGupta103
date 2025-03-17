@@ -39,14 +39,14 @@ I'm from New Delhi, currently studying at Rutgers University 🎓. I'm passionat
     <td width="50%">
       <h3 align="center">Chess Tutor</h3>
       <div align="center">
-        <a href="https://github.com/ParagGupta103/chess-tutor" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chess/chess.png" width="100" alt="Chess Project"/></a>
+        <a href="https://github.com/ParagGupta103/chess-tutor" target="_blank"></a>
         <p>A chess learning platform with custom Python chess engine for real-time analysis, TensorFlow-based gameplay pattern recognition, and interactive ReactJS frontend.</p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">Spotify Song Recommendation</h3>
       <div align="center">
-        <a href="https://github.com/ParagGupta103/spotify-recommendations" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/spotify/spotify.png" width="100" alt="Spotify Project"/></a>
+        <a href="https://github.com/ParagGupta103/spotify-recommendations" target="_blank"></a>
         <p>Deep learning recommendation system that generates song embeddings from over 2 million unique songs using Word2Vec models.</p>
       </div>
     </td>
