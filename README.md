@@ -8,7 +8,7 @@
 
 ![Profile views](https://img.shields.io/badge/Profile%20Views-1247-blue)
 
-I'm from New Jersey 🇺🇸, currently studying at Rutgers University 🎓. I'm passionate about Data Engineering, Machine Learning, and building scalable applications 🚀. When I'm not coding or tuning ML models, I can be found tutoring fellow students in Data Structures and Mathematics 📚, or working on my latest project 💻.
+I'm from New Delhi, currently studying at Rutgers University 🎓. I'm passionate about Data Engineering, Machine Learning, and building scalable applications 🚀. When I'm not coding or tuning ML models, I can be found tutoring fellow students in Data Structures and Mathematics 📚, or working on my latest project 💻.
 
 ## 🛠️ Technical Skills
 
