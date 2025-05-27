@@ -72,8 +72,6 @@ I'm from New Delhi, currently studying at Rutgers University 🎓. I'm passionat
 - Improved response relevance by 40% with advanced searching algorithms
 
 ## 📊 GitHub Stats
-
-![Parag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParagGupta103&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParagGupta103&layout=compact&theme=radical)
 
 ## 📫 How to reach me
