@@ -36,14 +36,7 @@ I'm from New Jersey, currently studying at Rutgers University 🎓. I'm passiona
       <h3 align="center">Chess Tutor</h3>
       <div align="center">
         <a href="https://github.com/ParagGupta103/chess-tutor" target="_blank"></a>
-        <p>A chess learning platform with custom Python chess engine for real-time analysis, TensorFlow-based gameplay pattern recognition, and interactive ReactJS frontend.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Spotify Song Recommendation</h3>
-      <div align="center">
-        <a href="https://github.com/ParagGupta103/spotify-recommendations" target="_blank"></a>
-        <p>Deep learning recommendation system that generates song embeddings from over 2 million unique songs using Word2Vec models.</p>
+        <p>A chess learning platform with custom Python chess engine for real-time analysis.</p>
       </div>
     </td>
   </tr>
