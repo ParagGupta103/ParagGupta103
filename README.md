@@ -30,17 +30,21 @@ I'm from New Jersey, currently studying at Rutgers University 🎓. I'm passiona
 
 ## 🔭 I'm currently working on
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Chess Tutor</h3>
-      <div align="center">
-        <a href="https://github.com/ParagGupta103/chess-tutor" target="_blank"></a>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>Chess Tutor</h3>
+        <a href="https://github.com/ParagGupta103/chess-tutor" target="_blank">
+          <img src="https://raw.githubusercontent.com/ParagGupta103/chess-app/master/public/assets/images/knight_w.png" alt="Knight Icon" width="100">
+        </a>
         <p>A chess learning platform with custom Python chess engine for real-time analysis.</p>
-      </div>
-    </td>
-  </tr>
-</table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 ## 🌱 I'm currently learning
 
