@@ -8,8 +8,7 @@
 
 ![Profile views](https://img.shields.io/badge/Profile%20Views-1247-blue)
 
-I'm from New Delhi, currently studying at Rutgers University 🎓. I'm passionate about Data Engineering, Machine Learning, and building scalable applications 🚀. When I'm not coding or tuning ML models, I can be found tutoring fellow students in Data Structures and Mathematics 📚, or working on my latest project 💻.
-
+I'm from New Jersey, currently studying at Rutgers University 🎓. I'm passionate about Data Engineering, Machine Learning, and building scalable applications 🚀.
 ## 🛠️ Technical Skills
 
 ### Languages & Frameworks:
@@ -18,10 +17,7 @@ I'm from New Delhi, currently studying at Rutgers University 🎓. I'm passionat
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ### Developer Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
